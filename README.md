@@ -4,10 +4,10 @@ Este projeto demonstra como utilizar Python e OpenCV para detectar objetos em te
 
 ## Estrutura do Projeto
 
-- **data/**: Contém os arquivos do modelo pré-treinado.
-- **src/**: Contém o código-fonte do projeto.
-- **notebooks/**: Contém notebooks Jupyter para experimentação.
-- **tests/**: Contém testes unitários.
+- **data**: Contém os arquivos do modelo pré-treinado.
+- **src**: Contém o código-fonte do projeto.
+- **notebooks**: Contém notebooks Jupyter para experimentação.
+- **tests**: Contém testes unitários.
 - **README.md**: Descrição do projeto.
 - **requirements.txt**: Dependências do projeto.
 
