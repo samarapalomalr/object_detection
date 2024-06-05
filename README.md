@@ -11,7 +11,10 @@ Este projeto demonstra como utilizar Python e OpenCV para detectar objetos em te
 - **README.md**: Descrição do projeto.
 - **requirements.txt**: Dependências do projeto.
 
-## Instalação
+- ![Demo](https://github.com/samarapalomalr/object_detection/blob/master/assets/demo.gif)
+
+## How to Run
+## Install dependencies
 
 1. Crie um ambiente virtual: python -m venv cv_env
 
