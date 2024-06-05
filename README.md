@@ -11,8 +11,6 @@ Este projeto demonstra como utilizar Python e OpenCV para detectar objetos em te
 - **README.md**: Descrição do projeto.
 - **requirements.txt**: Dependências do projeto.
 
-- ![Demo](https://github.com/samarapalomalr/object_detection/blob/master/assets/demo.gif)
-
 ## How to Run
 ## Install dependencies
 
@@ -27,3 +25,5 @@ Este projeto demonstra como utilizar Python e OpenCV para detectar objetos em te
 4. Execute o script principal: python src/object_detection.py
 
 USO : Para executar a detecção de objetos em tempo real, execute o script principal após seguir as etapas de instalação.
+
+![Demo](https://github.com/samarapalomalr/object_detection/blob/master/assets/demo.gif)
